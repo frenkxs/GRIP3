@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.RData
+.RDataTmp
+
+# R Environment Variables
+.Renviron
+
+# data
+clean_data/
+
